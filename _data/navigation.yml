@@ -1,7 +1,7 @@
 #
 #   Navigation to the left › side: left
 #
-- title: Start
+- title: Inizio
   url: "/"
   side: left
 
@@ -20,7 +20,7 @@
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Blog Archive"
+  - title: "Archivio Blog"
     url: "/blog/archive/"
 
 #
@@ -30,10 +30,10 @@
   url: "/info/"
   side: right
 
-- title: "Search"
+- title: "Cerca"
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "Contatti"
   url: "/contact/"
   side: right
