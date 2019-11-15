@@ -21,6 +21,7 @@ image:
   url: "http://phlow.de/"
 ---
 
+ 
 
-vedi http://www.lavocedigenova.it/2019/04/16/leggi-notizia/argomenti/cronaca-5/articolo/pegli-comitati-e-scout-ripuliscono-i-luoghi-del-cuore-di-nonne-e-nipoti.html
 
+vedi [Articolo da "La voce di Genova" del 16 aprile 2019](http://www.lavocedigenova.it/2019/04/16/leggi-notizia/argomenti/cronaca-5/articolo/pegli-comitati-e-scout-ripuliscono-i-luoghi-del-cuore-di-nonne-e-nipoti.html)
