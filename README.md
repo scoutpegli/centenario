@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+![](feeling-responsive-barebones-version.jpg)
 
-You can use the [editor on GitHub](https://github.com/scoutpegli/centenario/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## THIS IS THE BARE BONES VERSION OF *Feeling Responsive*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**All unnecessary files (images, posts) miss in this release to give you a quick and fresh start. If you are new to *Feeling Responsive* try the GH-Pages-Version. It teaches you with lots of material how to use this flexible theme.**
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-1280x720.jpg)](https://www.youtube.com/embed/3b5zCFSmVvU)
 
-```markdown
-Syntax highlighted code block
+## A Responsive Jekyll Theme: *Feeling Responsive*
 
-# Header 1
-## Header 2
-### Header 3
+Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <http://phlow.github.io/feeling-responsive/>.
 
-- Bulleted
-- List
+To get to know *Feeling Responsive* check out all the features explained in the [documentation][1].
 
-1. Numbered
-2. List
+And what license is *Feeling Responsive* released under? [This one][2].
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Why use this theme?
 
-### Jekyll Themes
+Feeling Responsive is heavily customizable.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/scoutpegli/centenario/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. Language-Support :)
+2. Optimized for speed and it's responsive.
+3. Built on Foundation Framework.
+4. Six different Headers.
+5. Customizable navigation, footer,...
 
-### Support or Contact
+**[More ›][3]**
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+## Video Tutorial
+
+Click the image to [watch the YouTube-Video-Tutorial][4].
+
+[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-tutorial-frontpage.jpg)](https://www.youtube.com/watch?v=rLS-BEvlEyY)
+
+
+
+
+
+
+
+
+ [1]: http://phlow.github.io/feeling-responsive/documentation/
+ [2]: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
+ [3]: http://phlow.github.io/feeling-responsive/info/
+ [4]: https://www.youtube.com/watch?v=rLS-BEvlEyY
+ [5]: #
+ [6]: #
+ [7]: #
+ [8]: #
+ [9]: #
+ [10]: #
