@@ -10,9 +10,9 @@
 #   title: ""
 
 - name: Facebook
-url: https://www.facebook.com/groups/centenarioscoutismopegli/
-class: icon-facebook
-title: "Centenario Scoutismo Pegli"
+  url: https://www.facebook.com/groups/centenarioscoutismopegli/
+  class: icon-facebook
+  title: "Centenario Scoutismo Pegli"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
