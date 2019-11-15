@@ -5,15 +5,15 @@
   url: "/"
   side: left
 
-- title: "Dropdown Menu"
+- title: "Naviga nel sito"
   url: "#"
   side: left
   dropdown:
-  - title: "Dropdown Menu 1"
+  - title: "Lupetti"
+    url: "lupetti"
+  - title: "Esploratori/Guide"
     url: "#"
-  - title: "Dropdown Menu 2"
-    url: "#"
-  - title: "Dropdown Menu 3"
+  - title: "Rover/Scolte"
     url: "#"
 
 - title: Blog
