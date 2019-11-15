@@ -1,15 +1,15 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact Us"
+title: "Contatti"
+meta_title: "Contattaci"
 subheadline: ""
 teaser: ""
 permalink: "/contact/"
 ---
 
-- [Wufoo][1]
-- [Google Forms][2]
+- [Email][1]
+- [Gruppo Facebook Centenario Scoutismo Pegli][2]
 
 
- [1]: http://www.wufoo.com/
- [2]: https://www.google.com/intl/de_de/forms/about/
+ [1]: mailto:centenarioscoutismopegli@gmail.com
+ [2]: https://www.facebook.com/groups/centenarioscoutismopegli/
