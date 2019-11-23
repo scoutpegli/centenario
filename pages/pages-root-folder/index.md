@@ -37,7 +37,7 @@ widget3:
 #  url: https://tinyletter.com/feeling-responsive
 #  text: Inform me about new updates and features ›
 #  style: alert
-# permalink: /index.html
+permalink: /index.html
 
 ---
 #<div id="videoModal" class="reveal-modal large" data-reveal="">
