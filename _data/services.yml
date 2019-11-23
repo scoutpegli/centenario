@@ -1,17 +1,17 @@
 - menu_name: "Servizi"
 
 - name: "Contatti"
-  url: "/contact/"
+  url: "/centenario/contact/"
   title: "Contatti"
 
 - name: "RSS"
-  url: "/feed.xml"
+  url: "/centenario/feed.xml"
   title: "Abbonati a feed RSS"
 
 - name: "Atom"
-  url: "/atom.xml"
+  url: "/centenario/atom.xml"
   title: "Abbonati ad Atom Feed"
 
 - name: "sitemap.xml"
-  url: "/sitemap.xml"
+  url: "/centenario/sitemap.xml"
   title: "Mappa sito per Google Webmaster Tools"
