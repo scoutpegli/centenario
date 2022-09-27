@@ -1,6 +1,8 @@
 ---
-layout: default
+layout: page
 ---
+
+Prova
 
 <main id="page" role="main">
 {% for category in site.categories %}
