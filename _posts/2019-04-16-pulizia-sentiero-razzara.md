@@ -8,8 +8,7 @@ title: "Gli scout di Pegli aiutano nella pulizia dei sentieri di Pegli!"
 teaser: "Pulizia dei sentireri."
 categories:
   - AvvenimentiCentenario
-tags:
-  - centenario eventi territorio anno2019
+tags: [centenario, eventi, territorio, anno2019]
 #
 # Styling
 #
