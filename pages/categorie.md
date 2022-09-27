@@ -1,6 +1,10 @@
 ---
 layout: default
-permalink: "/contact/"
+title: "Categorie"
+meta_title: "Categorie"
+subheadline: ""
+teaser: ""
+permalink: "/categorie/"
 ---
 
 
