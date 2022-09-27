@@ -19,4 +19,3 @@ Posts in questa categoria:
 {% endfor %}
 </ul>
 
-new
