@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Categorie"
 meta_title: "Categorie"
 subheadline: ""
@@ -7,8 +7,8 @@ teaser: ""
 permalink: "/categorie/"
 ---
 
+# testme
 
-<main id="page" role="main">
 {% for category in site.categories %}
     {% assign counter=0 %}
     {% for posts in category %}
@@ -54,4 +54,3 @@ permalink: "/categorie/"
 </div>
 {% endif %}
 {% endfor %}
-</main>
