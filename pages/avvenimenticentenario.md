@@ -7,6 +7,7 @@ permalink: "/avvenimenticentenario/"
 
 Posts in questa categoria:
 
+<ul>
 {% for category in site.categories %}
     {% for posts in category %}
         {% for post in posts %}
@@ -16,4 +17,6 @@ Posts in questa categoria:
         {% endfor %}
     {% endfor %}
 {% endfor %}
+</ul>
 
+new
