@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: default
+permalink: "/contact/"
 ---
 
-Prova
 
 <main id="page" role="main">
 {% for category in site.categories %}
