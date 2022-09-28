@@ -17,23 +17,23 @@
     url: "#"
 
 - title: Blog
-  url: "/centenario/blog/"
+  url: "/blog/"
   side: left
   dropdown:
   - title: "Archivio Blog"
-    url: "/centenario/blog/archive/"
+    url: "/blog/archive/"
 
 #
 #   Navigation to the right › side: right
 #
 - title: "Info"
-  url: "/centenario/info/"
+  url: "/info/"
   side: right
 
 - title: "Cerca"
-  url: "/centenario/search/"
+  url: "/search/"
   side: right
 
 - title: "Contatti"
-  url: "/centenario/contact/"
+  url: "/contact/"
   side: right
